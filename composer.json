@@ -1,0 +1,18 @@
+{
+    "name": "eshk/crud",
+    "description": "Perform CRUD operation in a easy way. handling the main Read, Insert, Update and Delete operations over a table and records",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eshk\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eril Shackle",
+            "email": "erilandocarvalho@gmail.com"
+        }
+    ],
+    "require": {}
+}
