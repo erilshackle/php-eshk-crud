@@ -86,11 +86,10 @@ final class CRUD
      * Creates a new record in the table.
      *
      * @param array $data The data to insert.
-     * @param mixed $lastInsertId The last inserted ID (by reference).
      *
      * @return int|false The inserted ID or false on failure.
      */
-    public function create(array $data, &$lastInsertId = null)
+    public function create(array $data)
     {
         $fields = implode(", ", array_keys($data));
         $placeholders = ":" . implode(", :", array_keys($data));
