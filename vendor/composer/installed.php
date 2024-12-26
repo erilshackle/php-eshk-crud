@@ -3,7 +3,7 @@
         'name' => 'eshk/crud',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '37a7bb48dd246ff68acd90f4e17cb5afa1f26d50',
+        'reference' => '423caa4efc22b9e44a9a302499df30f661a6da3e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'eshk/crud' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '37a7bb48dd246ff68acd90f4e17cb5afa1f26d50',
+            'reference' => '423caa4efc22b9e44a9a302499df30f661a6da3e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

@@ -3,6 +3,7 @@
     "description": "Perform CRUD operation in a easy way. handling the main Read, Insert, Update and Delete operations over a table and records",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Eshk\\Crud\\": "src/"
